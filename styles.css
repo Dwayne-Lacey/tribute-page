@@ -38,6 +38,12 @@ img {
 figure {
     margin-inline-start: 5px;
     margin-inline-end: 5px;
-    padding: 1.5em 10px;
+    padding: 1.5em 10px .5em 10px;
     background-color: #f7f7f7;
+}
+
+figcaption {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding-top: .5em;
 }
