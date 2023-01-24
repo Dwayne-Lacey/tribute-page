@@ -89,3 +89,7 @@ blockquote {
     text-align: left;
     font-style: italic; 
 }
+
+a {
+    color: rgb(53, 61, 163);
+}
